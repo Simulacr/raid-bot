@@ -1,0 +1,1 @@
+INSERT INTO RAID_BOSS (en_name, ru_name) VALUES ('Basil', 'Базила');
