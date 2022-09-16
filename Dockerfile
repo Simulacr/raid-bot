@@ -4,5 +4,6 @@ WORKDIR /app
 
 COPY ./src src
 COPY ./pom.xml pom.xml
+EXPOSE 8080:8080
 
 CMD ["mvn", "spring-boot:run"]
